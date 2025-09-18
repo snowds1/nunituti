@@ -1,0 +1,17 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Archivos de entorno
+.env
+
+# Archivos de logs
+*.log
+
+# Archivos de tu bot que no quieres versionar
+rated_movies_db.json
+rated_users_db.json
